@@ -1,0 +1,11 @@
+id,module,name,file,doc,markers,status,message,duration
+test_sample_functions.py::test_factorial_case1,test_sample_functions,test_factorial_case1,test_sample_functions.py,,factorial,failed,"assert 1 == 2
+  -1
+  +2",0.0006196498870849609
+test_sample_functions.py::test_factorial_case2,test_sample_functions,test_factorial_case2,test_sample_functions.py,,factorial,passed,,0.00037670135498046875
+test_sample_functions.py::test_factorial_case3,test_sample_functions,test_factorial_case3,test_sample_functions.py,,factorial,passed,,0.00040221214294433594
+test_sample_functions.py::test_factorial_case4,test_sample_functions,test_factorial_case4,test_sample_functions.py,,factorial,passed,,0.00036215782165527344
+test_sample_functions.py::test_reverse_case1,test_sample_functions,test_reverse_case1,test_sample_functions.py,,reverse,passed,,0.00036454200744628906
+test_sample_functions.py::test_reverse_case2,test_sample_functions,test_reverse_case2,test_sample_functions.py,,reverse,passed,,0.0003647804260253906
+test_sample_functions.py::test_reverse_case3,test_sample_functions,test_reverse_case3,test_sample_functions.py,,reverse,passed,,0.0003573894500732422
+test_sample_functions.py::test_reverse_case4,test_sample_functions,test_reverse_case4,test_sample_functions.py,,reverse,passed,,0.00035762786865234375
