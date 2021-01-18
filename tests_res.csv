@@ -1,0 +1,13 @@
+id,module,name,file,doc,markers,status,message,duration
+test_casestudy.py::test_factorial_num_case1,test_casestudy,test_factorial_num_case1,test_casestudy.py,,factorial_num,passed,,0.00038909912109375
+test_casestudy.py::test_factorial_num_case2,test_casestudy,test_factorial_num_case2,test_casestudy.py,,factorial_num,passed,,0.00035881996154785156
+test_casestudy.py::test_factorial_num_case3,test_casestudy,test_factorial_num_case3,test_casestudy.py,,factorial_num,passed,,0.0003521442413330078
+test_casestudy.py::test_factorial_num_case4,test_casestudy,test_factorial_num_case4,test_casestudy.py,,factorial_num,passed,,0.0003654956817626953
+test_casestudy.py::test_factorial_num_case5,test_casestudy,test_factorial_num_case5,test_casestudy.py,,factorial_num,failed,TypeError: reduce() of empty sequence with no initial value,0.0004706382751464844
+test_casestudy.py::test_factorial_num_case6,test_casestudy,test_factorial_num_case6,test_casestudy.py,,factorial_num,failed,Failed: DID NOT RAISE <class 'ValueError'>,0.0003962516784667969
+test_casestudy.py::test_even_pos_upcase_case1,test_casestudy,test_even_pos_upcase_case1,test_casestudy.py,,even_pos_upcase,passed,,0.0003616809844970703
+test_casestudy.py::test_even_pos_upcase_case2,test_casestudy,test_even_pos_upcase_case2,test_casestudy.py,,even_pos_upcase,passed,,0.0003647804260253906
+test_casestudy.py::test_even_pos_upcase_case3,test_casestudy,test_even_pos_upcase_case3,test_casestudy.py,,even_pos_upcase,passed,,0.0004978179931640625
+test_casestudy.py::test_even_pos_upcase_case4,test_casestudy,test_even_pos_upcase_case4,test_casestudy.py,,even_pos_upcase,passed,,0.00038886070251464844
+test_casestudy.py::test_even_pos_upcase_case5,test_casestudy,test_even_pos_upcase_case5,test_casestudy.py,,even_pos_upcase,passed,,0.00041031837463378906
+test_casestudy.py::test_even_pos_upcase_case6,test_casestudy,test_even_pos_upcase_case6,test_casestudy.py,,even_pos_upcase,passed,,0.00038743019104003906
